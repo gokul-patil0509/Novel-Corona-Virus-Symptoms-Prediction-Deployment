@@ -2,7 +2,6 @@
 
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg) ![Framework](https://img.shields.io/badge/Framework-Django-red) ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
 
-
 • This repository consists of files required to deploy a ___Machine Learning Web App___ created with ___Django___ on ___Heroku___ platform.
 
 • If you want to view the deployed model, click on the following link:<br />
